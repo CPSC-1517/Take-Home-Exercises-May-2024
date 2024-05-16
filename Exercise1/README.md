@@ -4,7 +4,7 @@
 
 ## Overview
 
-Your task is to generate a set of simple data types to represent the primary objects for managing renovation projects.
+Your task is to generate a set of simple data types to represent the primary objects for managing Books in a projects.
 
 For this exercise, place all the required property data types in the namespace `BookSystem` and ensure that they are `public`. Create your project as a **class library** (.NET Core 8). You have been supplied a Unit Tests project that will inform you if your work will meet specifications. **Ensure you follow the given class diagrams for the Unit Tests to work.**
 
