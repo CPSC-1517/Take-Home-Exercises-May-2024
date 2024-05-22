@@ -15,7 +15,6 @@ All validation is to be performed by throwing exceptions. Here are some general 
 - Exceptions must have meaningful error messages with keywords (ex: positive, minimum).
 - Use `ArgumentException()` for parameter value errors.
 - Error messages must include details about the limits for acceptable values.
-- Numerics must always be positive and non-zero numbers. Numerics are to be in whole number increments (eg: 254).
 - All string information must contain text unless explicitly stated as optional. Null, empty, and plain white-space text is not allowed. Sanitize your strings by trimming the leading and trailing whitespace.
 
 
