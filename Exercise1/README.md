@@ -56,7 +56,7 @@ characters and combination identifiers with special meanings.  There are various
 - Simple Regular Expression for url:
  ```csharp
   "(https?://www)?[a-zA-Z0-9}]+\.\w{2,}(?!\.)"
-```csharp
+```
 - Meaning:
   - (...)? means optional, the ? after s meaning the s is optional
   - [...] one of the indicated characters,  
