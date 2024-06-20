@@ -94,7 +94,7 @@ In your `ReviewReport.razor` component, you are to display the records of book r
 
 ### The `/ReviewCollection` Page
 
-In your `RenoCollection.razor` component, you are to provide the user the ability to add reviews. Your page will need to append the user's input to your existing CSV file. The user's input is to be validated according to the internal behaviour of your `Review` class (i.e.: you will need to catch any exceptions when instantiating `Review` objects and display appropriate feedback to the user). When appending to the CSV file, use the `.ToString()` method of your `Review` class to represent the data.
+In your `ReviewCollection.razor` component, you are to provide the user the ability to add reviews. Your page will need to append the user's input to your existing CSV file. The user's input is to be validated according to the internal behaviour of your `Review` class (i.e.: you will need to catch any exceptions when instantiating `Review` objects and display appropriate feedback to the user). When appending to the CSV file, use the `.ToString()` method of your `Review` class to represent the data.
 
 A mockup image of the required component is supplied. Your component does not need to have the same layout **but** must use the same variety of controls as the mockup for the page content. The following buttons should be included in your form.
 
