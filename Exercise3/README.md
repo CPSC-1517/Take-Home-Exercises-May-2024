@@ -17,7 +17,7 @@ Upon completion of this exercise, you will have demonstrated the ability to:
 
 ## Project/Solution Setup
 
-You are to create a new ASP.NET Core **Blazor** Web Application project within a new solution for this exercise. Create the project for .Net Core 8 and give your project the name **`BookWebApp`**. Check with your instructor about specific settings/customizations for your Blazor project. Copy the supplied class library into your new solition.
+You are to create a new ASP.NET Core **Blazor** Web Application project within a new solution for this exercise. Create the project for .Net Core 8 and give your project the name **`BookWebApp`**. Check with your instructor about specific settings/customizations for your Blazor project. Copy the supplied class library into your new solution.
 
 To ensure that your web application works, build and run your project. A browser window should open in a local hosted port.(Example https://localhost:5001 , your port may be different).
 
